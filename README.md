@@ -2,7 +2,7 @@
 
 A 3D sandbox built using [SALD](https://github.com/mayuso/SALD).
 
-![](otherResources/sald-sandbox3d.gif)
+![](otherResources/sald-sandbox3D.gif)
 
 ## Usage
 
