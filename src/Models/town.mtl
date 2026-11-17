@@ -1,0 +1,20 @@
+newmtl ground
+Kd 0.376 0.502 0.275
+map_Kd town_ground.png
+
+newmtl wall
+Kd 0.871 0.839 0.769
+map_Kd town_wall.png
+
+newmtl roof
+Kd 0.690 0.329 0.227
+map_Kd town_roof.png
+
+newmtl road
+Kd 0.275 0.275 0.290
+map_Kd town_road.png
+
+newmtl path
+Kd 0.659 0.627 0.573
+map_Kd town_path.png
+
